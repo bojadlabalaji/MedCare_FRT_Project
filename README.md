@@ -3,4 +3,6 @@ the **MedCare** website is used to consult doctors online and make appointments 
 
 ## Medcare Website Link: https://medcarewebsite.z29.web.core.windows.net/
 
+### Home Page:
+![image](https://user-images.githubusercontent.com/84083455/170883452-5ee57247-f18f-4b6e-9a2d-ec1a9bc51a0d.png)
 
