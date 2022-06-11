@@ -10,6 +10,7 @@ I have deployed my project in Static web apps as follow
   3)Search for Static Web Apps.
   4)Select Static Web Apps.
   5)Select Create.
+  
   | Setting  | Value |
   | ------------- | ------------- |
   | Azure subscription	| Azure for Students |
