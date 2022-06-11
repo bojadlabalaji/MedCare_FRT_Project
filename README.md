@@ -4,12 +4,12 @@ The **MedCare** website is used to consult doctors online and make appointments 
 ### Medcare Website Link: https://red-hill-066991910.1.azurestaticapps.net/
 
 ### Deployement Procedure:
-I have deployed my project in Static web apps as follow
-  1) Navigate to the Azure portal.
-  2)Select Create a Resource.
-  3)Search for Static Web Apps.
-  4)Select Static Web Apps.
-  5)Select Create.
+I have deployed my project in Static web apps as follow<br />
+  1) Navigate to the Azure portal. <br />
+  2)Select Create a Resource.<br />
+  3)Search for Static Web Apps.<br />
+  4)Select Static Web Apps.<br />
+  5)Select Create.<br />
   
   | Setting  | Value |
   | ------------- | ------------- |
@@ -20,10 +20,10 @@ I have deployed my project in Static web apps as follow
   | source | Github | 
   | GitHub account| bojadlabalaji |
   
-  and added git this repository by linking my git account.
-  6) click review+create
+  and added git this repository by linking my git account.<br />
+  6) click review+create<br />
   7) clicl create
-  
+  <br />
 
 
 
