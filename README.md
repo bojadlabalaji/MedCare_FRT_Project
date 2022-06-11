@@ -17,6 +17,8 @@ I have deployed my project in Static web apps as follow
   | Resource Group	| Medcarewebsite_group | 
   | Name	| MedcareWebsite | 
   | Plan type | Free | 
+  | source | Github | 
+  | GitHub account| bojadlabalaji |
   
   and added git this repository by linking my git account.
   6) click review+create
