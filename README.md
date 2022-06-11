@@ -4,8 +4,8 @@ The **MedCare** website is used to consult doctors online and make appointments 
 ### Medcare Website Link: https://red-hill-066991910.1.azurestaticapps.net/
 
 ### Deployement Procedure:
-I have deployed my project in Static web apps as follow<br />
-  1) Navigate to the Azure portal. <br />
+I have deployed my project in Static web apps as follow <br />
+  1)Navigate to the Azure portal. <br />
   2)Select Create a Resource.<br />
   3)Search for Static Web Apps.<br />
   4)Select Static Web Apps.<br />
