@@ -10,6 +10,7 @@ I have deployed my project in Static web apps as follow <br />
   3)Search for Static Web Apps.<br />
   4)Select Static Web Apps.<br />
   5)Select Create.<br />
+  6)In the Basics section, begin by configuring new app.<br />
   
   | Setting  | Value |
   | ------------- | ------------- |
@@ -20,9 +21,9 @@ I have deployed my project in Static web apps as follow <br />
   | source | Github | 
   | GitHub account| bojadlabalaji |
   
-  and added git this repository by linking my git account.<br />
-  6) click review+create<br />
-  7) clicl create
+  and added this git repository by linking my git account.<br />
+  7) click review+create<br />
+  8) clicl create
   <br />
 
 
@@ -48,8 +49,8 @@ I have deployed my project in Static web apps as follow <br />
 
 
 ## Chatbot
-![image](https://user-images.githubusercontent.com/84083455/170953393-2bcd4c07-d2a3-40c5-98ae-914741f7dde4.png)
-![image](https://user-images.githubusercontent.com/84083455/170883965-3a1f76bf-92f1-41b8-ab25-f2da6d09df00.png)
-![image](https://user-images.githubusercontent.com/84083455/170883989-1a2249aa-d659-46af-9e76-ea5b199b154e.png)
+![image](https://user-images.githubusercontent.com/84083455/173192945-3281d67a-182f-439d-8aa4-60de5cf1a3fa.png)
+![image](https://user-images.githubusercontent.com/84083455/173193037-388016d2-9a83-49d6-b9ab-dcf19d745027.png)
+![image](https://user-images.githubusercontent.com/84083455/173193088-f0e5742f-1081-4e9c-a34e-7cdbab51ebb3.png)
 
 
