@@ -1,7 +1,7 @@
 # MedCare
 The **MedCare** website is used to consult doctors online and make appointments to consult doctors offline. This website also contain chatbot called **MedCare Chatbot** which help people find the name of the disease corresponding to their symptoms and vice-versa. This website is implemented using HTML, Javascript and CSS Technologies. This website contain four pages they are HOME, About, Departments, Contact. My Website contain light mode and Dark mode.
 
-### Medcare Website Link: https://red-hill-066991910.1.azurestaticapps.net/
+### Medcare Website Link: https://bojadlabalaji.github.io/MedCare_FRT_Project/
 
 ### Deployement Procedure:
 I have deployed my project in Static web apps as follow <br />
